@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Josh\Desktop\ORMlab\app\libs\greendao-generator.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="996f9609df94098a29543c078a29010112c56909">
+        <dex dex="C:\Users\Josh\Desktop\ORMlab\app\build\intermediates\pre-dexed\debug\greendao-generator-739e23156de9175448a6ae9f239cc891dc2696bc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Josh\Desktop\ORMlab\app\libs\greenDAO.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="edc8e9af1641a7717b8b7b18deba4467b19e9841">
+        <dex dex="C:\Users\Josh\Desktop\ORMlab\app\build\intermediates\pre-dexed\debug\greenDAO-acebed64afc4269690ea8ca901df94c060f5ee70.jar" />
+    </item>
+    <item
+        jar="C:\Users\Josh\Desktop\ORMlab\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Josh\Desktop\ORMlab\app\build\intermediates\pre-dexed\debug\classes-7c714dffa481d3b3b8fbaec16de70b31cf39a292.jar" />
+    </item>
+    <item
+        jar="C:\Users\Josh\Desktop\ORMlab\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Josh\Desktop\ORMlab\app\build\intermediates\pre-dexed\debug\classes-9b6d9278d2f7f2fd298fbb060c685a8f228aeaa3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Josh\.gradle\caches\modules-2\files-2.1\org.freemarker\freemarker\2.3.23\cd143cd8c02a9f838e3cb75a6dfe133750437f6d\freemarker-2.3.23.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cd143cd8c02a9f838e3cb75a6dfe133750437f6d">
+        <dex dex="C:\Users\Josh\Desktop\ORMlab\app\build\intermediates\pre-dexed\debug\freemarker-2.3.23-cbc2b2b6e1bf66968f8011c59b7d3e45e8d63f19.jar" />
+    </item>
+    <item
+        jar="C:\Users\Josh\Desktop\ORMlab\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Josh\Desktop\ORMlab\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-af66663bf3b0e3c13c359fa97c1f8b8f6a382b96.jar" />
+    </item>
+    <item
+        jar="C:\Users\Josh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Josh\Desktop\ORMlab\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-d147527d6f9a5c4e34701fd9a25fb702c3434339.jar" />
+    </item>
+
+</items>
